@@ -1,0 +1,11 @@
+Model Information:
+* title:	sasando
+* source:	https://sketchfab.com/3d-models/sasando-a9d239d1914b4543b95ed62b5e3465d3
+* author:	KevinGathfan (https://sketchfab.com/KevinGathfan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "sasando" (https://sketchfab.com/3d-models/sasando-a9d239d1914b4543b95ed62b5e3465d3) by KevinGathfan (https://sketchfab.com/KevinGathfan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
